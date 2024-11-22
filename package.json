@@ -1,0 +1,16 @@
+{
+    "name": "nginx-crash-course",
+    "version": "1.0.0",
+    "description": "A node.js app to serve static files",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Dagim",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.18.2",
+        "path": "^0.12.7",
+        "dotenv": "^16.0.3"
+    }
+}
